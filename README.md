@@ -1,7 +1,7 @@
 # Booth-Multiplier-using-Verilog-HDL
 The booth's algorithm is implemented here using Verilog HDL
 
-# Tools & Technologies:
+# Tools & Technologies
 Xilinx Vivado (Version 2024.1)
 
 # For any inquiries or permissions, please contact:
