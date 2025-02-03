@@ -74,7 +74,7 @@ begin
     
     else
         Valid = 1;
-        assign Mul = {Acc,Q};
+        Mul = {Acc,Q};
 end
     
 endmodule
